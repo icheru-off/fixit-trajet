@@ -1,0 +1,11 @@
+✅ Géocodage IGN (La Grande-Paroisse)        La Grande-Paroisse (48.3842, 2.9036) 2.44s
+✅ Géocodage IGN (Melun)                     2 Avenue Thiers 77000 Melun (48.5326, 2.6560) 0.50s
+✅ Itinéraire OSRM principal                 38.7 km, 36 min sans trafic, 500 points, 0.52s
+✅ Itinéraire OSRM FOSSGIS (secours)         38.7 km, 36 min sans trafic, 500 points, 0.52s
+   → Heure annoncée un jeudi 8h00 (pointe) : 55 min · un dimanche 15h : 43 min
+✅ Style de carte OpenFreeMap (positron)      55 calques, 0.05s
+✅ Ressources de carte autorisées par la CSP tiles.openfreemap.org
+✅ Tuiles vectorielles (TileJSON)             https://tiles.openfreemap.org/planet/20261115_080022_pt/{z}/{x}/{y}.pbf
+✅ CORS IGN (appel direct navigateur)         *
+
+RÉSULTAT : tous les services répondent.
